@@ -18,6 +18,11 @@ Projeto feito no CP1 do segundo semestre sobre a criação de um aplicativo para
     <img height src="https://cdn.discordapp.com/attachments/946468431794954250/1138965795809001543/Historias_dos_usuarios_-_Goldwing.png"/>
 </div>
 
+<h2 align="center">🖼 Canvas 🖼</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/946468431794954250/1138970262755344545/Copia_de_Modelo_de_Negocios_-_Quadro_branco_para_planejamento_Canvas_em_estilo_profissional_e_moderno_nas_cores_roxo_e_azul.png"/>
+</div>
+
 <h2 align="center">📋 Página 01 (Login) 📋</h2>
 <div align="center">
     <img height src="https://media.discordapp.net/attachments/946468431794954250/1138902070326476800/1.png?width=231&height=499"/>
