@@ -9,6 +9,16 @@ Para este projeto, as seguintes bibliotecas são necessárias:
 - `thingProperties.h`: Uma biblioteca personalizada que contém as definições das propriedades do dispositivo IoT.
 - `DHT.h`: Uma biblioteca para trabalhar com o sensor DHT11.
 
+## Arquitetura da Solução :building:
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/970834305305694218/1167867939245006909/image.png?ex=654fb0c6&is=653d3bc6&hm=0697d139005cddceefd0a7560e5e45d9fdd5da72ee9911ac141da377b15f6035&"/>
+</div>
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/970834305305694218/1167868011261218848/image.png?ex=654fb0d7&is=653d3bd7&hm=756000365f1328cfffe4c9c97deb4ec9786a457c07509668dc2b807f2e9a67c5&"/>
+</div>
+
 ## Configuração do Sensor :wrench:
 
 Antes de começar, é importante configurar o sensor DHT:
