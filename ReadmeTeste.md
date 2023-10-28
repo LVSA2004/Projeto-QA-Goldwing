@@ -11,6 +11,8 @@ Para este projeto, as seguintes bibliotecas são necessárias:
 
 ## Arquitetura da Solução 🏢
 
+Aqui está a arquitetura da solução:
+
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/970834305305694218/1167867939245006909/image.png?ex=654fb0c6&is=653d3bc6&hm=0697d139005cddceefd0a7560e5e45d9fdd5da72ee9911ac141da377b15f6035&"/>
 </div>
